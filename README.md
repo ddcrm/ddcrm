@@ -8,7 +8,7 @@
 </div>
 
 ### Contato
-<a href="https://instagram.com/ddcrm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
+<a href="https://instagram.com/dd_crm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
 <a href = "mailto:cavalcante.andressa026@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117" target="_blank"></a>
 
 ### Skills:
